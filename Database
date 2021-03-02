@@ -1,3 +1,7 @@
+/* create database*/
+create database addressbook;
+
+
 /* Create table*/
 CREATE TABLE info (
   id int NOT NULL AUTO_INCREMENT,
